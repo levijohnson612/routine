@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #F6F8F9;
+}
+
+code {
+  font-family: Helvetica, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
